@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Source\Repos\test+game\test+game\bin\Debug\netcoreapp3.1\test+game.exe
+C:\Users\Lenovo\Source\Repos\test+game\test+game\bin\Debug\netcoreapp3.1\test+game.deps.json
+C:\Users\Lenovo\Source\Repos\test+game\test+game\bin\Debug\netcoreapp3.1\test+game.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\test+game\test+game\bin\Debug\netcoreapp3.1\test+game.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\test+game\test+game\bin\Debug\netcoreapp3.1\test+game.dll
+C:\Users\Lenovo\Source\Repos\test+game\test+game\bin\Debug\netcoreapp3.1\test+game.pdb
+C:\Users\Lenovo\Source\Repos\test+game\test+game\obj\Debug\netcoreapp3.1\test+game.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\test+game\test+game\obj\Debug\netcoreapp3.1\test+game.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\test+game\test+game\obj\Debug\netcoreapp3.1\test+game.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\test+game\test+game\obj\Debug\netcoreapp3.1\test+game.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\test+game\test+game\obj\Debug\netcoreapp3.1\test+game.dll
+C:\Users\Lenovo\Source\Repos\test+game\test+game\obj\Debug\netcoreapp3.1\test+game.pdb
+C:\Users\Lenovo\Source\Repos\test+game\test+game\obj\Debug\netcoreapp3.1\test+game.genruntimeconfig.cache
